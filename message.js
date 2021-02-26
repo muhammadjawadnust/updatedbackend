@@ -1,0 +1,1 @@
+exports.jawad= "this is message";
